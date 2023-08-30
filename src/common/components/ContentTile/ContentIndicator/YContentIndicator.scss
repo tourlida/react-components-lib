@@ -1,0 +1,12 @@
+.YContentIndicator {
+    display: flex;
+    gap: 4px;
+    flex-direction: row;
+    align-items: center;
+
+    #dot {
+        width: 12px;
+        height: 12px;
+        border-radius: 12px;
+    }
+}
